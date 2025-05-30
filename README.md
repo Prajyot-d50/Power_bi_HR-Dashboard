@@ -19,7 +19,6 @@ This Power BI HR Dashboard provides a detailed analysis of employee data, helpin
 - DAX (Calculated Columns & Measures)
 - Excel (HR Data Source)
 
-## 📁 Project Structure
 
  ## 📷 Dashboard Preview
 
@@ -32,13 +31,6 @@ This Power BI HR Dashboard provides a detailed analysis of employee data, helpin
 - Track diversity metrics across the organization
 - Visualize hiring trends and workforce demographics
 - Monitor salary distribution by department and role
-
-## ⚙️ How to Use
-
-1. Clone the repository or download the files
-2. Open HRDashboard.pbix in Power BI Desktop
-3. Ensure the Excel file path is updated (if needed)
-4. Refresh the data and explore the insights
 
 ## 📬 Contact
 
