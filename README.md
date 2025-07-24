@@ -35,4 +35,4 @@ This Power BI HR Dashboard provides a detailed analysis of employee data, helpin
 ## 📬 Contact
 
 Created by *Prajyot Dabholkar*  
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK) | [Email](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/prajyot-dabholkar-43b38335b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [Email](mailto:your.email@example.com)
