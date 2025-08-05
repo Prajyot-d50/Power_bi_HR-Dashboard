@@ -6,19 +6,12 @@ This Power BI HR Dashboard provides a detailed analysis of employee data, helpin
 
 - Employee Headcount & Distribution
 - Attrition & Retention Analysis
-- Gender & Age Diversity
+  Using Power Bi Bookmarks cliking On "Male or "Female" Icon
+  The entire dashboard to show gender-specific insights only.
 - Department-Wise Insights
 - Tenure & Experience Breakdown
 - Salary Range Analysis
 - Interactive Filters (Department, Gender, Age Group, Date)
-
-## 🛠 Tools Used
-
-- Power BI Desktop
-- Power Query (ETL)
-- DAX (Calculated Columns & Measures)
-- Excel (HR Data Source)
-
 
  ## 📷 Dashboard Preview
 
@@ -31,6 +24,13 @@ This Power BI HR Dashboard provides a detailed analysis of employee data, helpin
 - Track diversity metrics across the organization
 - Visualize hiring trends and workforce demographics
 - Monitor salary distribution by department and role
+
+## 🛠 Tools Used
+
+- Power BI Desktop
+- Power Query (ETL)
+- DAX (Calculated Columns & Measures)
+- Excel (HR Data Source)
 
 ## 📬 Contact
 
