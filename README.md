@@ -15,7 +15,8 @@ This Power BI HR Dashboard provides a detailed analysis of employee data, helpin
 
  ## 📷 Dashboard Preview
 
-<img width="1115" height="500" alt="Screenshot 2025-07-27 143121" src="https://github.com/user-attachments/assets/a7be718c-c270-49a8-9569-24d3c7d11fa2" />
+<img width="1198" height="542" alt="image" src="https://github.com/user-attachments/assets/20acdb13-4c6e-4d0a-8cdb-00f5ae17df9d" />
+
 
 
 ## 📌 Use Cases
